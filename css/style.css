@@ -66,7 +66,9 @@ nav li a {
 }
 #about {
   padding: 2rem;
+  height: 90vh;
 }
+
 #about h2 {
   font-size: 2rem;
   display: flex;
@@ -89,4 +91,61 @@ nav li a {
 .text img {
     border: var(--border);
     box-shadow: var(--shadow);
+    
 }
+.image{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+
+
+#hero {
+  padding: 2rem;
+  height: 100vh;
+}
+#hero h1 {
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 2rem;
+}
+#hero .hero-nut {
+  display: grid;
+  grid-template-columns: 600px 1fr;
+  gap: 4rem;
+  align-items: center;
+  padding: 2rem;
+}
+.hero-nut p{
+
+  border: var(--border);
+  padding: 2rem;
+}
+
+#skill {
+  padding: 2rem;
+  height: 100vh;
+}
+#skill h2 {
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-bottom: 2rem;
+}
+#skill .skill-card{
+  display: grid;
+  grid-template-columns: 600px 1fr;
+  gap: 4rem;
+  align-items: center;
+  padding: 2rem;
+}
+.skill-card p{
+
+  border: var(--border);
+  padding: 2rem;
+}
+
