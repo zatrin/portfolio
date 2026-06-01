@@ -3,6 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+section{
+  width: 90%;
+  margin: 40px auto;
+  background: var(--ctp-1);
+  border-radius: 25px;
+  padding: 50px;
+}
 :root {
   --background: #051f20;
   --ctp-1: #0b2b26;
@@ -101,51 +108,29 @@ nav li a {
 
 
 
+
 #hero {
-  padding: 2rem;
+  text-align: center;
+}
+#hero h2 {
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+#hero h3{
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+#skills {
+  display: grid;
+  grid-template-columns: repeat(4,1fr);
+  gap: 15px;
   height: 100vh;
 }
-#hero h1 {
-  font-size: 2rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding-bottom: 2rem;
-}
-#hero .hero-nut {
-  display: grid;
-  grid-template-columns: 600px 1fr;
-  gap: 4rem;
-  align-items: center;
-  padding: 2rem;
-}
-.hero-nut p{
-
-  border: var(--border);
-  padding: 2rem;
-}
-
-#skill {
-  padding: 2rem;
-  height: 100vh;
-}
-#skill h2 {
-  font-size: 2rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding-bottom: 2rem;
-}
-#skill .skill-card{
-  display: grid;
-  grid-template-columns: 600px 1fr;
-  gap: 4rem;
-  align-items: center;
-  padding: 2rem;
-}
-.skill-card p{
-
-  border: var(--border);
-  padding: 2rem;
+.skill {
+  background:var(--ctp-mantle);
+  color:var(--ctp-lavender);
+  padding: 15px;
+  border-radius: 8px;
 }
 
