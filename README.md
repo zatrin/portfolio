@@ -1,5 +1,6 @@
 # 💻 My Portfolio 
-       Welcome to my personal portfolio website. This project showcases my skill , projects , and passion for web development .<br> It represents my journey as a developer and the work I have created while learning .
+Welcome to my personal portfolio website. <br>
+       <b>This project showcases my skill , projects , and passion for web development .It represents my journey as a developer and the work I have created while learning .<b>
 
 ## 🚀 Features
 -Modern and clean Design<br>
