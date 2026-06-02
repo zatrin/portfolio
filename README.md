@@ -1,16 +1,16 @@
-## 💻 My Portfolio 
-       Welcome to my personal portfolio website. This project showcases my skill , projects , and passion for web development . It represents my journey as a developer and the work I have created while learning .
+# 💻 My Portfolio 
+       Welcome to my personal portfolio website. This project showcases my skill , projects , and passion for web development .<br> It represents my journey as a developer and the work I have created while learning .
 
 ## 🚀 Features
--Modern and clean Design
--About Me section
--Skills section
--Project showcase
--Contact section
+-Modern and clean Design<br>
+-About Me section<br>
+-Skills section<br>
+-Project showcase<br>
+-Contact section<br>
 -Fully responsive layout
 
 ## ⚒️ Tech Used
--HTML
+-HTML<br>
 -CSS
 
  ## 🌐 Live Demo
@@ -21,9 +21,9 @@
  ![Preview Image](/assets/images/port44.png)
      
 ## 🎯 Goals
--Improve Frontend development skills
--Build better real-world projects
--Learn new Web tecnologies
+-Improve Frontend development skills<br>
+-Build better real-world projects<br>
+-Learn new Web tecnologies<br>
 -Create responsive and user-friendly designs
  
  ## 🔗 Connect With Me
