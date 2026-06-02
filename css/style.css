@@ -1,8 +1,9 @@
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: sans-serif;
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+font-family:'Poppins',sans-serif;
 }
 
 :root {
@@ -36,7 +37,7 @@
   --shadow: 6px 6px 0px var(--ctp-text);
   --shadow-accent: 6px 6px 0px var(--ctp-yellow);
 }
-
+ 
 body {
   background: var(--ctp-teal);
   color: var(--ctp-white);
@@ -46,6 +47,7 @@ body {
   font-weight: 700;
   color:var(--ctp-base);
 }
+
 nav {
   display: flex;
   padding: 20px 60px;
@@ -63,6 +65,8 @@ nav ul {
  gap: 25px;
 }
 nav a {
+  font-size: 1.8rem;
+  margin-left: 4rem;
   text-decoration: none;
   color: var(--ctp-white);
 
@@ -142,4 +146,99 @@ h2{
  
 .skill :hover{
   transform: translate(-5px);
+}
+.portfolio-grid{
+       display: grid;
+       grid-template-columns: repeat(3,1fr);
+       gap: 20px;
+}
+.card{
+  overflow:hidden;
+  border-radius:15px;
+  height:200px;   
+}
+
+.card img{
+  width:100%;
+  height:100%;
+  object-fit:cover;   
+  display:block;
+  transition:.3s;
+  aspect-ratio: 16/9;
+  object-fit: cover;
+}
+
+.contact-container{
+  display: flex;
+  gap: 30px;
+}
+   
+.contact-info{
+  width: 35%;
+}
+  
+.contact-info p{
+  margin-top: 15px;
+}
+ 
+.socials{
+  margin-top: 20px;
+  display: flex;
+  gap: 15px;
+  font-size: 25px;
+}
+
+form{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+
+}
+input,textarea{
+  padding: 15px;
+  border: none;
+  border-radius: 10px;
+  background: var(--ctp-green1);
+  color: var(--ctp-white);
+}
+textarea{
+  height: 150px;
+  resize: none;
+}
+button{
+  padding: 15px;
+  border: none;
+  border-radius: var(--ctp-base);
+  font-weight: 600;
+  cursor: pointer;
+}
+footer{
+  text-align: center;
+  padding: 25px;
+}
+@media(max-width:768px){
+
+#hero{
+flex-direction:column;
+text-align:center;
+}
+
+.contact-container{
+flex-direction:column;
+}
+
+.contact-info{
+width:100%;
+}
+
+.portfolio-grid{
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
+  gap:20px;
+}
+
+.hero-text h1{
+font-size:3rem;
+}
 }
