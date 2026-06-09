@@ -30,9 +30,6 @@ My name is Rahul Thapa. I am a Computer Science student who is interested in tec
 
 As I learn more technologies such as JavaScript and other web development tools, I plan to add more features on my upcoming projects.
 
-
- ##  Preview 
- ![Preview Image](/assets/images/port44.png)
   
  <b>Thank you for visiting my project.</b>
 
