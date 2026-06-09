@@ -1,34 +1,40 @@
-# 💻 My Portfolio 
-Welcome to my personal portfolio website. <br>
-       <b>This project showcases my skill , projects , and passion for web development .It represents my journey as a developer and the work I have created while learning .<b>
+## My Portfolio Website: 
 
-## 🚀 Features
--Modern and clean Design<br>
--About Me section<br>
--Skills section<br>
--Project showcase<br>
--Contact section<br>
--Fully responsive layout
+This is my personal portfolio website that I built to practice web development and share my work online .
+I created this project using HTML and CSS while learning front-end devel0pment . The main purpose of this website is to introduce myself,showing my skill and also display some projects that I have done before . 
 
-## ⚒️ Tech Used
--HTML<br>
--CSS
+## Features
+- Modern and Clean Design<br>
+- About Me section<br>
+- Skills section<br>
+- Project showcase<br>
+- Contact section<br>
+- Fully resposive layout
 
- ## 🌐 Live Demo
- https://jocular-chaja-09c351.netlify.app/
+## Why I made this project:
+
+I wanted to create a portfolio because many developers use one to showcase their woek. Building this proect also helped me to improve my HTML and CSS skills and understand how a completer and beautiful website structure's can be it .
+
+## Technologies Used: 
+
+- HTML<br> 
+- CSS<br>
+- JS
 
 
- ## 📸 Preview 
+## About Me
+
+My name is Rahul Thapa. I am a Computer Science student who is interested in technology and programming. I am currently learning web development and working on improving my coding skills through practice projects.
+
+## Future Improvements
+
+As I learn more technologies such as JavaScript and other web development tools, I plan to add more features on my upcoming projects.
+
+
+ ##  Preview 
  ![Preview Image](/assets/images/port44.png)
-     
-## 🎯 Goals
--Improve Frontend development skills<br>
--Build better real-world projects<br>
--Learn new Web tecnologies<br>
--Create responsive and user-friendly designs
- 
- ## 🔗 Connect With Me
-Feel free to explore my work and provide feedback.
-notpublic@gmail.com
-⚡Code. Create. Innovate.
+  
+ <b>Thank you for visiting my project.</b>
 
+     
+ 
