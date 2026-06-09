@@ -13,7 +13,7 @@ I created this project using HTML and CSS while learning front-end devel0pment .
 
 ## Why I made this project:
 
-I wanted to create a portfolio because many developers use one to showcase their woek. Building this proect also helped me to improve my HTML and CSS skills and understand how a completer and beautiful website structure's can be it .
+I wanted to create a portfolio because many developers use one to showcase their woek. Building this project also helped me to improve my HTML and CSS skills and understand how a completer and beautiful website structure's can be it .
 
 ## Technologies Used: 
 
