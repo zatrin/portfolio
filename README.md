@@ -24,6 +24,8 @@ I wanted to create a portfolio because many developers use one to showcase their
 ## Preview 
 ![Preview Image](/assets/images/port44.png)
 
+## Live Demo
+ https://jocular-chaja-09c351.netlify.app/
 
 ## About Me
 
