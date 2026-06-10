@@ -21,6 +21,9 @@ I wanted to create a portfolio because many developers use one to showcase their
 - CSS<br>
 - JS
 
+## Preview 
+![Preview Image](/assets/images/port44.png)
+
 
 ## About Me
 
