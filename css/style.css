@@ -280,7 +280,13 @@ transition:.3s;
   gap: 15px;
   font-size: 25px;
 }
-
+.socials a {
+  color: inherit;
+  text-decoration: none;
+}
+.socials a:hover{
+  color:#0077ff;
+}
 form{
   flex: 1;
   display: flex;
