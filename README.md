@@ -25,7 +25,7 @@ I wanted to create a portfolio because many developers use one to showcase their
 ![Preview Image](/assets/images/port44.png)
 
 ## Live Demo
-https://chic-dieffenbachia-c6af21.netlify.app/
+https://phenomenal-fairy-6b9e27.netlify.app/
 
 ## About Me
 
